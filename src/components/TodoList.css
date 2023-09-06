@@ -1,0 +1,14 @@
+.todo-item {
+    cursor: pointer;
+    align-items: center;
+    justify-content: center;
+}
+
+.todo-icon {
+    margin-right: 10px;
+}
+
+.todo-text-done {
+    text-decoration: line-through;
+    color: #ccc
+}
